@@ -17,25 +17,25 @@ This repository is designed to be **fully reproducible**:
 
 ## Quick start (recommended)
 
-### 1) Build the Docker image
+ 1) Build the Docker image
 ```bash
 docker build -t f1-dashboard .
 
-### 2) Run unit tests (reproducibility check)
+ 2) Run unit tests (reproducibility check)
 ```bash
 docker run --rm f1-dashboard pytest -q
 
 - **Expected outcome "1 passed"
 
-### 3) Run the dashboard localy
+ 3) Run the dashboard localy
 ```bash
 docker run --rm -p 8501:8501 f1-dashboard
 
-- **Open your browser at "http://localhost:8501"- copying and pasting from the outcome of point 2
+Open your browser at "http://localhost:8501"- copying and pasting from the outcome of point 2
 
 ---
 
-## Project structure
+ Project structure
 
 .
 ├── app/        # Streamlit user interface
@@ -49,13 +49,13 @@ docker run --rm -p 8501:8501 f1-dashboard
 
 ---
 
-## Data description
+ Data description
 
-- **data/races.csv — Races from 1980 to 1989 (5 races per year)
+data/races.csv — Races from 1980 to 1989 (5 races per year)
 
-- **data/results.csv — Top 6 classified drivers per race
+data/results.csv — Top 6 classified drivers per race
 
-- **data/points.json — Points system (top 6)
+data/points.json — Points system (top 6)
 
-- **data/scenarios.json — One reproducible scenario per season
+data/scenarios.json — One reproducible scenario per season
 
