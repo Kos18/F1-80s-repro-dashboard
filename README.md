@@ -17,6 +17,10 @@ This repository is designed to be **fully reproducible**:
 
 ## Quick start (recommended)
 
+git clone https://github.com/Kos18/F1-80s-repro-dashboard.git
+cd F1-80s-repro-dashboard
+
+
  1) Build the Docker image
 ```bash
 docker build -t f1-dashboard .
