@@ -38,7 +38,7 @@ docker run --rm f1-dashboard pytest -q
 docker run --rm -p 8501:8501 f1-dashboard
 ```
 
-Open your browser at **http://localhost:8501** - copying and pasting from the outcome of point 2
+Open your browser at **http://localhost:8501** 
 
 ---
 
