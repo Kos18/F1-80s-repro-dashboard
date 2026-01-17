@@ -1,0 +1,82 @@
+[
+  {
+    "name": "1980 R1: Promote P6->P3 (Australian Grand Prix)",
+    "year": 1980,
+    "race_id": "1980_01",
+    "driver": "Keke Rosberg",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1981 R1: Promote P6->P3 (Italian Grand Prix)",
+    "year": 1981,
+    "race_id": "1981_01",
+    "driver": "Riccardo Patrese",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1982 R1: Promote P6->P3 (Australian Grand Prix)",
+    "year": 1982,
+    "race_id": "1982_01",
+    "driver": "Gerhard Berger",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1983 R1: Promote P6->P3 (Canadian Grand Prix)",
+    "year": 1983,
+    "race_id": "1983_01",
+    "driver": "Stefan Johansson",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1984 R1: Promote P6->P3 (Canadian Grand Prix)",
+    "year": 1984,
+    "race_id": "1984_01",
+    "driver": "John Watson",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1985 R1: Promote P6->P3 (Canadian Grand Prix)",
+    "year": 1985,
+    "race_id": "1985_01",
+    "driver": "Nigel Mansell",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1986 R1: Promote P6->P3 (Brazilian Grand Prix)",
+    "year": 1986,
+    "race_id": "1986_01",
+    "driver": "Gerhard Berger",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1987 R1: Promote P6->P3 (Australian Grand Prix)",
+    "year": 1987,
+    "race_id": "1987_01",
+    "driver": "Elio de Angelis",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1988 R1: Promote P6->P3 (British Grand Prix)",
+    "year": 1988,
+    "race_id": "1988_01",
+    "driver": "Niki Lauda",
+    "new_position": 3,
+    "new_status": "Finished"
+  },
+  {
+    "name": "1989 R1: Promote P6->P3 (Canadian Grand Prix)",
+    "year": 1989,
+    "race_id": "1989_01",
+    "driver": "Niki Lauda",
+    "new_position": 3,
+    "new_status": "Finished"
+  }
+]

@@ -1,0 +1,301 @@
+race_id,driver,team,grid,position,status
+1980_01,John Watson,McLaren,8,1,Finished
+1980_01,Thierry Boutsen,Benetton,9,2,Finished
+1980_01,Nelson Piquet,Williams,10,3,Finished
+1980_01,Derek Warwick,Lotus,6,4,Finished
+1980_01,Elio de Angelis,Lotus,1,5,Finished
+1980_01,Keke Rosberg,Williams,4,6,Finished
+1980_02,Elio de Angelis,Lotus,1,1,Finished
+1980_02,Alain Prost,McLaren,9,2,Finished
+1980_02,Keke Rosberg,Williams,7,3,Finished
+1980_02,Gerhard Berger,Ferrari,5,4,Finished
+1980_02,Nigel Mansell,Williams,3,5,Finished
+1980_02,Michele Alboreto,Ferrari,4,6,Finished
+1980_03,Elio de Angelis,Lotus,8,1,Finished
+1980_03,Gerhard Berger,Ferrari,4,2,Finished
+1980_03,Michele Alboreto,Ferrari,5,3,Finished
+1980_03,Eddie Cheever,Alfa Romeo,6,4,Finished
+1980_03,Nelson Piquet,Williams,2,5,Finished
+1980_03,Niki Lauda,McLaren,1,6,Finished
+1980_04,Niki Lauda,McLaren,7,1,Finished
+1980_04,Thierry Boutsen,Benetton,3,2,Finished
+1980_04,Michele Alboreto,Ferrari,9,3,Finished
+1980_04,John Watson,McLaren,4,4,Finished
+1980_04,Stefan Johansson,Ferrari,1,5,Finished
+1980_04,Gerhard Berger,Ferrari,5,6,Finished
+1980_05,Nelson Piquet,Williams,10,1,Finished
+1980_05,Eddie Cheever,Alfa Romeo,6,2,Finished
+1980_05,Elio de Angelis,Lotus,7,3,Finished
+1980_05,Ayrton Senna,McLaren,1,4,Finished
+1980_05,Nigel Mansell,Williams,4,5,Finished
+1980_05,Alain Prost,McLaren,5,6,Finished
+1981_01,Stefan Johansson,Ferrari,5,1,Finished
+1981_01,Derek Warwick,Lotus,10,2,Finished
+1981_01,Niki Lauda,McLaren,4,3,Finished
+1981_01,Nelson Piquet,Williams,3,4,Finished
+1981_01,Keke Rosberg,Williams,1,5,Finished
+1981_01,Riccardo Patrese,Brabham,2,6,Finished
+1981_02,Ayrton Senna,McLaren,2,1,Finished
+1981_02,Nelson Piquet,Williams,1,2,Finished
+1981_02,John Watson,McLaren,9,3,Finished
+1981_02,Teo Fabi,Benetton,4,4,Finished
+1981_02,Derek Warwick,Lotus,8,5,Finished
+1981_02,Eddie Cheever,Alfa Romeo,3,6,Finished
+1981_03,Keke Rosberg,Williams,1,1,Finished
+1981_03,Teo Fabi,Benetton,10,2,Finished
+1981_03,John Watson,McLaren,4,3,Finished
+1981_03,Derek Warwick,Lotus,6,4,Finished
+1981_03,Elio de Angelis,Lotus,3,5,Finished
+1981_03,Eddie Cheever,Alfa Romeo,2,6,Finished
+1981_04,Teo Fabi,Benetton,2,1,Finished
+1981_04,Riccardo Patrese,Brabham,10,2,Finished
+1981_04,Michele Alboreto,Ferrari,7,3,Finished
+1981_04,Thierry Boutsen,Benetton,3,4,Finished
+1981_04,Elio de Angelis,Lotus,8,5,Finished
+1981_04,Derek Warwick,Lotus,9,6,Finished
+1981_05,Eddie Cheever,Alfa Romeo,1,1,Finished
+1981_05,Stefan Johansson,Ferrari,5,2,Finished
+1981_05,Niki Lauda,McLaren,8,3,Finished
+1981_05,Nigel Mansell,Williams,7,4,Finished
+1981_05,Teo Fabi,Benetton,3,5,Finished
+1981_05,Derek Warwick,Lotus,2,6,Finished
+1982_01,Niki Lauda,McLaren,1,1,Finished
+1982_01,Nelson Piquet,Williams,5,2,Finished
+1982_01,Elio de Angelis,Lotus,9,3,Finished
+1982_01,Thierry Boutsen,Benetton,10,4,Finished
+1982_01,Alain Prost,McLaren,7,5,Finished
+1982_01,Gerhard Berger,Ferrari,2,6,Finished
+1982_02,Niki Lauda,McLaren,3,1,Finished
+1982_02,Nelson Piquet,Williams,2,2,Finished
+1982_02,Nigel Mansell,Williams,1,3,Finished
+1982_02,Eddie Cheever,Alfa Romeo,7,4,Finished
+1982_02,Ayrton Senna,McLaren,6,5,Finished
+1982_02,Michele Alboreto,Ferrari,4,6,Finished
+1982_03,Ayrton Senna,McLaren,10,1,Finished
+1982_03,Alain Prost,McLaren,7,2,Finished
+1982_03,Michele Alboreto,Ferrari,2,3,Finished
+1982_03,John Watson,McLaren,4,4,Finished
+1982_03,Niki Lauda,McLaren,8,5,Finished
+1982_03,Eddie Cheever,Alfa Romeo,6,6,Finished
+1982_04,Michele Alboreto,Ferrari,9,1,Finished
+1982_04,Alain Prost,McLaren,8,2,Finished
+1982_04,Elio de Angelis,Lotus,10,3,Finished
+1982_04,Gerhard Berger,Ferrari,7,4,Finished
+1982_04,Eddie Cheever,Alfa Romeo,6,5,Finished
+1982_04,Teo Fabi,Benetton,3,6,Finished
+1982_05,Thierry Boutsen,Benetton,3,1,Finished
+1982_05,John Watson,McLaren,7,2,Finished
+1982_05,Gerhard Berger,Ferrari,5,3,Finished
+1982_05,Elio de Angelis,Lotus,1,4,Finished
+1982_05,Stefan Johansson,Ferrari,8,5,Finished
+1982_05,Nigel Mansell,Williams,4,6,Finished
+1983_01,Teo Fabi,Benetton,7,1,Finished
+1983_01,Gerhard Berger,Ferrari,9,2,Finished
+1983_01,Alain Prost,McLaren,2,3,Finished
+1983_01,Nelson Piquet,Williams,3,4,Finished
+1983_01,Derek Warwick,Lotus,5,5,Finished
+1983_01,Stefan Johansson,Ferrari,6,6,Finished
+1983_02,Niki Lauda,McLaren,8,1,Finished
+1983_02,Nelson Piquet,Williams,10,2,Finished
+1983_02,Teo Fabi,Benetton,1,3,Finished
+1983_02,Elio de Angelis,Lotus,2,4,Finished
+1983_02,Derek Warwick,Lotus,7,5,Finished
+1983_02,Alain Prost,McLaren,3,6,Finished
+1983_03,Alain Prost,McLaren,10,1,Finished
+1983_03,Michele Alboreto,Ferrari,2,2,Finished
+1983_03,Teo Fabi,Benetton,8,3,Finished
+1983_03,Eddie Cheever,Alfa Romeo,4,4,Finished
+1983_03,John Watson,McLaren,1,5,Finished
+1983_03,Riccardo Patrese,Brabham,7,6,Finished
+1983_04,Michele Alboreto,Ferrari,5,1,Finished
+1983_04,Nigel Mansell,Williams,6,2,Finished
+1983_04,Gerhard Berger,Ferrari,1,3,Finished
+1983_04,Elio de Angelis,Lotus,8,4,Finished
+1983_04,Teo Fabi,Benetton,10,5,Finished
+1983_04,Riccardo Patrese,Brabham,3,6,Finished
+1983_05,Alain Prost,McLaren,7,1,Finished
+1983_05,Stefan Johansson,Ferrari,3,2,Finished
+1983_05,Teo Fabi,Benetton,8,3,Finished
+1983_05,John Watson,McLaren,1,4,Finished
+1983_05,Riccardo Patrese,Brabham,10,5,Finished
+1983_05,Nelson Piquet,Williams,6,6,Finished
+1984_01,Gerhard Berger,Ferrari,1,1,Finished
+1984_01,Eddie Cheever,Alfa Romeo,9,2,Finished
+1984_01,Keke Rosberg,Williams,4,3,Finished
+1984_01,Nigel Mansell,Williams,2,4,Finished
+1984_01,Elio de Angelis,Lotus,6,5,Finished
+1984_01,John Watson,McLaren,8,6,Finished
+1984_02,Nigel Mansell,Williams,6,1,Finished
+1984_02,Ayrton Senna,McLaren,7,2,Finished
+1984_02,Teo Fabi,Benetton,3,3,Finished
+1984_02,Keke Rosberg,Williams,5,4,Finished
+1984_02,Derek Warwick,Lotus,10,5,Finished
+1984_02,Riccardo Patrese,Brabham,8,6,Finished
+1984_03,John Watson,McLaren,9,1,Finished
+1984_03,Michele Alboreto,Ferrari,10,2,Finished
+1984_03,Riccardo Patrese,Brabham,4,3,Finished
+1984_03,Eddie Cheever,Alfa Romeo,3,4,Finished
+1984_03,Nelson Piquet,Williams,1,5,Finished
+1984_03,Teo Fabi,Benetton,6,6,Finished
+1984_04,Eddie Cheever,Alfa Romeo,7,1,Finished
+1984_04,Gerhard Berger,Ferrari,3,2,Finished
+1984_04,Teo Fabi,Benetton,2,3,Finished
+1984_04,Riccardo Patrese,Brabham,6,4,Finished
+1984_04,Ayrton Senna,McLaren,5,5,Finished
+1984_04,John Watson,McLaren,8,6,Finished
+1984_05,Derek Warwick,Lotus,2,1,Finished
+1984_05,Nigel Mansell,Williams,8,2,Finished
+1984_05,Nelson Piquet,Williams,3,3,Finished
+1984_05,Riccardo Patrese,Brabham,5,4,Finished
+1984_05,Ayrton Senna,McLaren,10,5,Finished
+1984_05,Alain Prost,McLaren,7,6,Finished
+1985_01,Keke Rosberg,Williams,7,1,Finished
+1985_01,Elio de Angelis,Lotus,6,2,Finished
+1985_01,Gerhard Berger,Ferrari,5,3,Finished
+1985_01,Derek Warwick,Lotus,4,4,Finished
+1985_01,Teo Fabi,Benetton,2,5,Finished
+1985_01,Nigel Mansell,Williams,10,6,Finished
+1985_02,Stefan Johansson,Ferrari,9,1,Finished
+1985_02,Alain Prost,McLaren,5,2,Finished
+1985_02,Ayrton Senna,McLaren,6,3,Finished
+1985_02,Nelson Piquet,Williams,8,4,Finished
+1985_02,Thierry Boutsen,Benetton,2,5,Finished
+1985_02,Eddie Cheever,Alfa Romeo,10,6,Finished
+1985_03,Eddie Cheever,Alfa Romeo,10,1,Finished
+1985_03,John Watson,McLaren,1,2,Finished
+1985_03,Teo Fabi,Benetton,8,3,Finished
+1985_03,Gerhard Berger,Ferrari,7,4,Finished
+1985_03,Ayrton Senna,McLaren,9,5,Finished
+1985_03,Stefan Johansson,Ferrari,2,6,Finished
+1985_04,John Watson,McLaren,9,1,Finished
+1985_04,Nelson Piquet,Williams,7,2,Finished
+1985_04,Stefan Johansson,Ferrari,4,3,Finished
+1985_04,Michele Alboreto,Ferrari,5,4,Finished
+1985_04,Riccardo Patrese,Brabham,1,5,Finished
+1985_04,Teo Fabi,Benetton,10,6,Finished
+1985_05,Teo Fabi,Benetton,4,1,Finished
+1985_05,Elio de Angelis,Lotus,10,2,Finished
+1985_05,Eddie Cheever,Alfa Romeo,7,3,Finished
+1985_05,Michele Alboreto,Ferrari,5,4,Finished
+1985_05,Gerhard Berger,Ferrari,8,5,Finished
+1985_05,Nigel Mansell,Williams,3,6,Finished
+1986_01,Michele Alboreto,Ferrari,6,1,Finished
+1986_01,Ayrton Senna,McLaren,3,2,Finished
+1986_01,Stefan Johansson,Ferrari,1,3,Finished
+1986_01,Elio de Angelis,Lotus,7,4,Finished
+1986_01,Keke Rosberg,Williams,9,5,Finished
+1986_01,Gerhard Berger,Ferrari,2,6,Finished
+1986_02,Thierry Boutsen,Benetton,10,1,Finished
+1986_02,Gerhard Berger,Ferrari,5,2,Finished
+1986_02,Niki Lauda,McLaren,7,3,Finished
+1986_02,Michele Alboreto,Ferrari,2,4,Finished
+1986_02,Eddie Cheever,Alfa Romeo,4,5,Finished
+1986_02,Ayrton Senna,McLaren,3,6,Finished
+1986_03,Thierry Boutsen,Benetton,6,1,Finished
+1986_03,Nigel Mansell,Williams,10,2,Finished
+1986_03,John Watson,McLaren,4,3,Finished
+1986_03,Niki Lauda,McLaren,1,4,Finished
+1986_03,Alain Prost,McLaren,2,5,Finished
+1986_03,Teo Fabi,Benetton,9,6,Finished
+1986_04,Eddie Cheever,Alfa Romeo,10,1,Finished
+1986_04,Keke Rosberg,Williams,6,2,Finished
+1986_04,Elio de Angelis,Lotus,7,3,Finished
+1986_04,Niki Lauda,McLaren,4,4,Finished
+1986_04,John Watson,McLaren,1,5,Finished
+1986_04,Teo Fabi,Benetton,3,6,Finished
+1986_05,Niki Lauda,McLaren,1,1,Finished
+1986_05,Alain Prost,McLaren,10,2,Finished
+1986_05,Ayrton Senna,McLaren,2,3,Finished
+1986_05,Gerhard Berger,Ferrari,5,4,Finished
+1986_05,Elio de Angelis,Lotus,7,5,Finished
+1986_05,Derek Warwick,Lotus,8,6,Finished
+1987_01,Thierry Boutsen,Benetton,4,1,Finished
+1987_01,Nelson Piquet,Williams,10,2,Finished
+1987_01,Teo Fabi,Benetton,5,3,Finished
+1987_01,John Watson,McLaren,3,4,Finished
+1987_01,Eddie Cheever,Alfa Romeo,6,5,Finished
+1987_01,Elio de Angelis,Lotus,9,6,Finished
+1987_02,Derek Warwick,Lotus,6,1,Finished
+1987_02,Stefan Johansson,Ferrari,10,2,Finished
+1987_02,Nigel Mansell,Williams,2,3,Finished
+1987_02,Michele Alboreto,Ferrari,4,4,Finished
+1987_02,Eddie Cheever,Alfa Romeo,3,5,Finished
+1987_02,Keke Rosberg,Williams,9,6,Finished
+1987_03,Nigel Mansell,Williams,8,1,Finished
+1987_03,Michele Alboreto,Ferrari,6,2,Finished
+1987_03,Niki Lauda,McLaren,2,3,Finished
+1987_03,Riccardo Patrese,Brabham,5,4,Finished
+1987_03,Nelson Piquet,Williams,10,5,Finished
+1987_03,Thierry Boutsen,Benetton,3,6,Finished
+1987_04,Teo Fabi,Benetton,1,1,Finished
+1987_04,Alain Prost,McLaren,2,2,Finished
+1987_04,Stefan Johansson,Ferrari,3,3,Finished
+1987_04,John Watson,McLaren,8,4,Finished
+1987_04,Thierry Boutsen,Benetton,7,5,Finished
+1987_04,Michele Alboreto,Ferrari,9,6,Finished
+1987_05,Ayrton Senna,McLaren,5,1,Finished
+1987_05,Nigel Mansell,Williams,8,2,Finished
+1987_05,Elio de Angelis,Lotus,1,3,Finished
+1987_05,Gerhard Berger,Ferrari,3,4,Finished
+1987_05,Keke Rosberg,Williams,10,5,Finished
+1987_05,Nelson Piquet,Williams,7,6,Finished
+1988_01,Elio de Angelis,Lotus,5,1,Finished
+1988_01,Derek Warwick,Lotus,7,2,Finished
+1988_01,Thierry Boutsen,Benetton,6,3,Finished
+1988_01,Michele Alboreto,Ferrari,8,4,Finished
+1988_01,Riccardo Patrese,Brabham,2,5,Finished
+1988_01,Niki Lauda,McLaren,1,6,Finished
+1988_02,Stefan Johansson,Ferrari,2,1,Finished
+1988_02,Alain Prost,McLaren,5,2,Finished
+1988_02,Ayrton Senna,McLaren,4,3,Finished
+1988_02,Thierry Boutsen,Benetton,3,4,Finished
+1988_02,Riccardo Patrese,Brabham,7,5,Finished
+1988_02,Niki Lauda,McLaren,10,6,Finished
+1988_03,Ayrton Senna,McLaren,7,1,Finished
+1988_03,Nigel Mansell,Williams,5,2,Finished
+1988_03,Michele Alboreto,Ferrari,10,3,Finished
+1988_03,Eddie Cheever,Alfa Romeo,4,4,Finished
+1988_03,Teo Fabi,Benetton,9,5,Finished
+1988_03,Niki Lauda,McLaren,6,6,Finished
+1988_04,John Watson,McLaren,1,1,Finished
+1988_04,Thierry Boutsen,Benetton,6,2,Finished
+1988_04,Elio de Angelis,Lotus,4,3,Finished
+1988_04,Riccardo Patrese,Brabham,2,4,Finished
+1988_04,Alain Prost,McLaren,10,5,Finished
+1988_04,Derek Warwick,Lotus,9,6,Finished
+1988_05,Keke Rosberg,Williams,9,1,Finished
+1988_05,Riccardo Patrese,Brabham,5,2,Finished
+1988_05,Nelson Piquet,Williams,6,3,Finished
+1988_05,Alain Prost,McLaren,3,4,Finished
+1988_05,Stefan Johansson,Ferrari,8,5,Finished
+1988_05,Eddie Cheever,Alfa Romeo,1,6,Finished
+1989_01,Michele Alboreto,Ferrari,10,1,Finished
+1989_01,Teo Fabi,Benetton,4,2,Finished
+1989_01,Ayrton Senna,McLaren,3,3,Finished
+1989_01,Riccardo Patrese,Brabham,7,4,Finished
+1989_01,Gerhard Berger,Ferrari,9,5,Finished
+1989_01,Niki Lauda,McLaren,8,6,Finished
+1989_02,Riccardo Patrese,Brabham,7,1,Finished
+1989_02,Niki Lauda,McLaren,9,2,Finished
+1989_02,Michele Alboreto,Ferrari,3,3,Finished
+1989_02,Alain Prost,McLaren,4,4,Finished
+1989_02,Ayrton Senna,McLaren,1,5,Finished
+1989_02,Gerhard Berger,Ferrari,10,6,Finished
+1989_03,Michele Alboreto,Ferrari,4,1,Finished
+1989_03,Ayrton Senna,McLaren,5,2,Finished
+1989_03,Alain Prost,McLaren,2,3,Finished
+1989_03,Derek Warwick,Lotus,6,4,Finished
+1989_03,John Watson,McLaren,9,5,Finished
+1989_03,Thierry Boutsen,Benetton,8,6,Finished
+1989_04,Ayrton Senna,McLaren,5,1,Finished
+1989_04,Gerhard Berger,Ferrari,7,2,Finished
+1989_04,Michele Alboreto,Ferrari,2,3,Finished
+1989_04,Derek Warwick,Lotus,3,4,Finished
+1989_04,Niki Lauda,McLaren,4,5,Finished
+1989_04,Nelson Piquet,Williams,9,6,Finished
+1989_05,Teo Fabi,Benetton,7,1,Finished
+1989_05,Alain Prost,McLaren,4,2,Finished
+1989_05,Derek Warwick,Lotus,9,3,Finished
+1989_05,Gerhard Berger,Ferrari,2,4,Finished
+1989_05,Nigel Mansell,Williams,8,5,Finished
+1989_05,John Watson,McLaren,3,6,Finished
